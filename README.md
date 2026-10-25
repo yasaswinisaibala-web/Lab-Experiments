@@ -1,8 +1,9 @@
 B.YASASWINI SAI
+
 256BV1A05015
 
 week-1
-1.C pragram using printf and scanf.
+1.C program using printf and scanf.
 
 week-2
 1.sum and average of 3 numbers.
