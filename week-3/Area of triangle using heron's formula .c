@@ -2,7 +2,7 @@
 #include<math.h>
 int main() 
 {
-    double a,b,c,area,s;;
+    double a,b,c,area,s;
     printf("enter side a in cm:");
     scanf("%lf",&a);
     printf("enter side b in cm:");
